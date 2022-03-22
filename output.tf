@@ -11,4 +11,3 @@ output "eventbridge_bus_names" {
     v.tags["BusName"] => v.name
   }
 }
-
