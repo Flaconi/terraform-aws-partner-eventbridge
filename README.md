@@ -37,5 +37,6 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_eventbridge_bus_arns"></a> [eventbridge\_bus\_arns](#output\_eventbridge\_bus\_arns) | The EventBridge Bus arns |
+| <a name="output_eventbridge_bus_names"></a> [eventbridge\_bus\_names](#output\_eventbridge\_bus\_names) | A map of the EventBridge Bus names to the full name |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
