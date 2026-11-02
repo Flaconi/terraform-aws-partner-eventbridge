@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-aws-partner-eventbridge
+  description: >
+    This module will create for all given partner names the event buses
+  annotations:
+    github.com/project-slug: Flaconi/terraform-aws-partner-eventbridge
+  tags:
+    - terraform
+    - aws
+    - eventbridge
+
+spec:
+  type: library
+  lifecycle: production
+  owner: group:platform
+  system: aws-infrastructure
+  providesApis: []
